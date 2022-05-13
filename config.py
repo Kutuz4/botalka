@@ -1,0 +1,2 @@
+TOKEN = '1439381984:AAGuFIuqJSssdiLnKB4n9KQx-TCVaeCh78Y'
+apikey = 'RhljvuEZrxoM8HtW3bHS7z8sNS3yCIZJMrg5N7ibzBU'
